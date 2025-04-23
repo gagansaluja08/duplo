@@ -41,8 +41,6 @@ Worker nodes are automatically configured on first boot to:
 ├── variables.tf             # Variable definitions
 ├── dev.tfvars               # Development environment variables
 ├── prod.tfvars              # Production environment variables (sample)
-└── docs/                    # Additional documentation
-    └── deployment-guide.md  # Detailed deployment instructions
 ```
 
 ## Quick Start
